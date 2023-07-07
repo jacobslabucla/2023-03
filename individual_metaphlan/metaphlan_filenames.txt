@@ -1,4 +1,4 @@
-metaphlan_outputs.txt
+merged_abundance_absolute.txt
 Vlkman-001-LA-041_S1_L004_R1_001.fastq_profiled_metagenome.txt
 Vlkman-001-LA-054_S122_L004_R1_001.fastq_profiled_metagenome.txt
 Vlkman-001-LA-066_S3_L001_R1_001.fastq_profiled_metagenome.txt
@@ -193,6 +193,7 @@ Vlkman-006-SW-041_S193_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-042_S194_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-043_S195_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-044_S196_L001_R1_001.fastq_profiled_metagenome.txt
+Vlkman-006-SW-045-2_S198_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-045_S197_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-047_S199_L001_R1_001.fastq_profiled_metagenome.txt
 Vlkman-006-SW-048_S200_L001_R1_001.fastq_profiled_metagenome.txt
